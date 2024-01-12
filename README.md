@@ -6,8 +6,8 @@ Junior Web Developer
 
 * 🌍  I'm based in Milan
 * 📚  I'm student: [Start2Impact](https://www.start2impact.it)
-* 🖥️  See my portfolio [here](http://andrea.meini.github.com)
-* 🚀  I'm currently working on [My portfolio](http://andrea.meini.github.com)
+* 🖥️  See my portfolio [here](https://gear95.github.io/portfolio/)
+* 🚀  I'm currently working on [My portfolio](https://gear95.github.io/portfolio/)
 
 
 <a href="https://www.github.com/Gear95" target="_blank" rel="noreferrer"><img
